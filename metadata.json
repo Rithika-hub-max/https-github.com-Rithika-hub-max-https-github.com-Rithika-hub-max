@@ -1,0 +1,5 @@
+{
+  "name": "Agentic RAG Assistant",
+  "description": "A sophisticated AI Research Assistant that combines Retrieval-Augmented Generation (RAG) with Agentic workflows to analyze documents, categorize insights, and generate comprehensive research reports.",
+  "requestFramePermissions": []
+}
